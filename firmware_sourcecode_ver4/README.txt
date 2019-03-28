@@ -1,4 +1,4 @@
-****HOLTER MONITOR FIRMWARE ****
+###HOLTER MONITOR FIRMWARE 
 
 1. Add the files 'ver3.ino' and 'ver3_i2c_subsys.ino' as two files to the same sketch (use tab options of the IDE)
 2. Compile and upload using Arduino 1.6.4 or higher versions of the IDE. It is not guarenteed to work on previous versions of the IDE
